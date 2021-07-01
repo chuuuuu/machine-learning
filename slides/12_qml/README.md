@@ -1,0 +1,5 @@
+- svm
+  - https://www.youtube.com/watch?v=efR1C6CvhmE
+  - https://www.youtube.com/watch?v=Toet3EiSFcM
+  - https://www.youtube.com/watch?v=Qc5IyLW_hns
+  - https://www.youtube.com/watch?v=ny1iZ5A8ilA
