@@ -1,8 +1,18 @@
 # HW3
+## description
+- Food Classification
+- Dataset: food-11 dataset
+
+see more in the [hw03.pdf](hw03.pdf)
+
+## my work
 In this homework, there are two .ipynb files.
 In HW03_pretrain.ipynb, I train a model which is used as the pretrained model in the HW03_emsembler.ipynb.
 In HW03_emsembler.ipynb, I train 5 models and combine all of them into a ensembler.
 Notice that, all of the convolutional layers of those 5 models are initialized by the pretrained model trained in HW03_pretrain.ipynb.
+- public acc: 0.84229 (44/1404)
+- privat acc: 0.84219 (34/1404)
+
 
 ## Instructions
 1. run HW03_pretrain.ipynb until val_acc > 0.79
