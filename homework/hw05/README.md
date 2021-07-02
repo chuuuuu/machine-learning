@@ -5,7 +5,7 @@
   - TED2020: used as pair data
   - More on TED Talks: used as monolingual data
 
-see more in the [hw03.pdf](hw03.pdf)
+see more in the [hw05.pdf](hw05.pdf)
 
 ## my work
 In this homework, there are two .ipynb files.
