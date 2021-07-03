@@ -3,7 +3,7 @@
 - Food Classification
 - Dataset: food-11 dataset
 
-see more in the [hw03.pdf](hw03.pdf)
+see more in the [HW03.pdf](HW03.pdf)
 
 ## my work
 In this homework, there are two .ipynb files.

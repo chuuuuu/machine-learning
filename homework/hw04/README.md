@@ -3,7 +3,7 @@
 - Speaker classification
 - Dataset: VoxCeleb
 
-see more in the [hw04.pdf](hw04.pdf)
+see more in the [HW04.pdf](HW04.pdf)
 
 ## my work
 in this homework, i build my model with conformer implemented by Soohwan.
