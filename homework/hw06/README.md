@@ -6,5 +6,6 @@
 see more in the [hw06.pdf](hw06.pdf)
 
 ## my work
+in this homework, i build my model with ProGAN implemented by Aladdin Persson.
 - FID: 9055.651 (557/1117)
 - AFD: 0.657 (644/1117)
