@@ -1,5 +1,4 @@
-# Machine Learning 2021
-this is the course i taken at ntu.
+# Machine Learning
 the course website: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 
 ## Homework
